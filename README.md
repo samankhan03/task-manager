@@ -8,7 +8,7 @@ Organize your tasks into categories, mark them complete, and persist them in **l
 ## Features
 
 - Add, edit, and delete tasks  
-- Organize tasks into categories (Work, Personal, Study, Other) and filter by category  
+- Organize tasks into categories (Work, Personal, Study, Other) and filter by category 
 - Mark tasks as completed  
 - Persistent storage using **localStorage**  
 - Responsive design with color-coded categories and feedback messages  
@@ -16,17 +16,12 @@ Organize your tasks into categories, mark them complete, and persist them in **l
 
 ---
 
-## Demo
-
-*(Optional: Add a link to a live demo if hosted online)*
-
----
 
 ## Installation
 
 1. **Clone the repository**:
 
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/samankhan03/task-manager.git
 cd task-manager
 
 2. **Install dependencies**:
@@ -48,7 +43,7 @@ yarn dev
 To create a production build:
 
 npm run build
-# or
+or
 yarn build
 
 The production-ready files will be in the dist folder.
