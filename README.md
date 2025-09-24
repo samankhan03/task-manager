@@ -3,6 +3,7 @@
 A **simple, accessible, and user-friendly Task Manager** web app built with **React** and **TypeScript**.  
 Organize your tasks into categories, mark them complete, and persist them in **localStorage**.
 
+![Task Manager Screenshot](./src/assets/screenshot.png)
 
 ## Features
 
